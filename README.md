@@ -1,43 +1,33 @@
 # Hi, I'm Lindsay! 👋
 
-I'm a Business Analyst working on a Master's Degree in information security. Skilled at providing strategic decision support through research, data analytics, and visualizations. Proven ability to analyze business requirements, determine project scope, and communicate effectively with technical and non-technical audiences.
+I'm a Business Analyst with a passion for leveraging data and technology to drive strategic decision-making. I'm currently pursuing a Master's degree in Information Security to further enhance my technical expertise and cybersecurity knowledge.
 
-# TECHNICAL PROFICIENCIES/SPECIALIZED SKILLS
-•	Process & Project Management
-•	SQL, Python, R
-•	Tableau
-•	Data Governance
-•	Data Warehouse Administration
-•	Visio	
-•	Relationship Management
-•	Software Administration
-•	Writing
-•	Research
+# Skills
 
-# **CERTIFICATES/CERTIFICATIONS**
-(ISC)2 Certified in Cybersecurity	June 2023
-(ISC)2 North America
+- Business Analysis: Requirements gathering, process modeling, data analysis, and solution design
+- Data Analysis: SQL, Python, R, data visualization (Power BI, Tableau), data modeling (Visio)
+- Communication: Effective communication with technical and non-technical stakeholders
+- Problem-Solving: Strong analytical and problem-solving skills
+- Information Security: Policy, governance, risk assessment, compliance, and security best practices
 
-Certification in UX Foundations: Accessibility 	April 2022
-LinkedIn Learning
-
-Certification in Data Science with SQL & Tableau 	   March 2022
-eCornell Ithaca, NY
+# **Certificates/Certifications**
+- (ISC)2 Certified in Cybersecurity	June 2023, (ISC)2 North America
+- Certification in UX Foundations: Accessibility 	April 2022, LinkedIn Learning
+- Certification in Data Science with SQL & Tableau 	March 2022, eCornell 
 
 # Affiliations
-•	Student member of Women in Cybersecurity (WiCyS)
+- Student member of Women in Cybersecurity (WiCyS)
+- https://www.wicys.org/
 
 # Publications
-•	How to Secure Your Online Identity with Security Keys, CIS Blog, October 2023
+- How to Secure Your Online Identity with Security Keys, CIS Blog, October 2023
+- https://www.cisecurity.org/insights/blog/how-to-secure-your-online-identity-with-security-keys
 
-# EDUCATION
-Master of Science in Cybersecurity					                                                                                                                                 
-Southern New Hampshire University Manchester, NH
-Projected graduation date: June 2025 
+#  Education
+- Master of Science in Cybersecurity: Southern New Hampshire University 
+  • Projected graduation date: June 2025 
 
-CIS: Information Technology	
-Northern Essex Community College Haverhill, MA
-Projected graduation date: June 2025 
+- Associate of Science in CIS: Information Technology: Northern Essex Community College 
+  • Projected graduation date: June 2025 
 
-Bachelor of Arts in Creative Writing & Literature	
-New College of California San Francisco, CA
+- Bachelor of Arts in Creative Writing & Literature: New College of California 
