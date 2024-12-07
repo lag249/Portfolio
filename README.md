@@ -22,7 +22,7 @@ I'm a Business Analyst with a passion for leveraging data and technology to driv
 - How to Secure Your Online Identity with Security Keys, CIS Blog, October 2023
 - https://www.cisecurity.org/insights/blog/how-to-secure-your-online-identity-with-security-keys
 
-# Portfolio
+# Projects
 - 
 
 #  Education
