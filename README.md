@@ -1,6 +1,6 @@
 # Hi, I'm Lindsay! 👋
 
-I'm a Business Analyst with a passion for leveraging data and technology to drive strategic decision-making. I'm currently pursuing a Master's degree in Information Security to further enhance my technical expertise and cybersecurity knowledge.
+I'm a Business Analyst with a passion for leveraging data and technology to drive strategic decision-making. I'm currently pursuing a Master's degree in Information Security and an Associate Degree in Information Technology to further enhance my technical expertise and cybersecurity knowledge.
 
 # Skills
 - Business Analysis: Requirements gathering, process modeling, data analysis, and solution design
