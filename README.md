@@ -24,7 +24,7 @@ I'm a Business Analyst with a passion for leveraging data and technology to driv
 
 # Projects
 - Linux Administration https://github.com/lag249/Linux
-- Splunk
+- Splunk Trainings https://github.com/lag249/Splunk-Training
 
 #  Education
 - Master of Science in Cybersecurity: Southern New Hampshire University 
